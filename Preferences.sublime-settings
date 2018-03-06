@@ -1,0 +1,53 @@
+{
+	"color_scheme": "Packages/Colorcoder/Monokai Phoenix (Colorcoded) (SL) (Colorcoded).tmTheme",
+	"default_line_ending": "unix",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"draw_minimap_border": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"*.d",
+		"*.tags*",
+		"*.cmd",
+		"*.mod.*",
+		"*.symvers",
+		"*.order"
+	],
+	"font_face": "Consolas",
+	"font_size": 14,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"original_color_scheme": "Packages/User/SublimeLinter/Monokai Extended (Colorcoded) (SL).tmTheme",
+	"save_on_focus_lost": true,
+	"show_encoding": true,
+	"tab_size": 4,
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"word_wrap": true
+}
