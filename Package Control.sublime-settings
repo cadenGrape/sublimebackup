@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"0_package_control_loader"
 	],
 	"installed_packages":
 	[
@@ -33,7 +34,6 @@
 		"Monokai Extended",
 		"Package Control",
 		"PHPSnippets",
-		"PlainTasks",
 		"Robot Framework Assistant",
 		"Seti_UI",
 		"Seti_UX",
@@ -53,7 +53,6 @@
 		"SublimeLinter-phpcs",
 		"SublimeREPL",
 		"SublimeTmpl",
-		"Sync Settings",
 		"SyncedSideBar",
 		"Terminal",
 		"Theme - Seti Monokai",
