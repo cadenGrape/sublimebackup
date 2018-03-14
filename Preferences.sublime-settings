@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Colorcoder/Monokai Phoenix (Colorcoded) (SL) (Colorcoded).tmTheme",
+	"color_scheme": "Packages/Colorcoder/Monokai Phoenix (Colorcoded) (SL) (Colorcoded) (Colorcoded).tmTheme",
 	"default_line_ending": "unix",
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"draw_minimap_border": true,
@@ -33,16 +33,15 @@
 		"*.order"
 	],
 	"font_face": "Consolas",
-	"font_size": 14,
+	"font_size": 16,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"0_package_control_loader",
 		"Markdown",
 		"Vintage"
 	],
-	"original_color_scheme": "Packages/User/SublimeLinter/Monokai Extended (Colorcoded) (SL).tmTheme",
+	"original_color_scheme": "Packages/User/Color Highlighter/themes/Monokai Phoenix (Colorcoded) (SL) (Colorcoded).tmTheme",
 	"save_on_focus_lost": true,
 	"show_encoding": true,
 	"tab_size": 4,
